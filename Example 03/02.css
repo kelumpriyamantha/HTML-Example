@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    background-color: blue;
+    color: cornsilk;
+}
+.box-a{
+    background-color: darkred;
+    color: ghostwhite;
+    border-top: 5px black solid;
+    border-left: 5px black solid;
+    border-right: 5px black solid;
+    border-bottom: 5px black solid;
+    border-width: 7px;
+    border-top-width: 12px;
+    border-top-style: double;
+    border-bottom-style: double;
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.container{
+    width:90%;
+    margin: auto;
+}
